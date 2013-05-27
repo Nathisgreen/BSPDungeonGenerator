@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Digger.cs">
+    <Files>
+      <File FileName="Assets\BSPNode.cs" Line="1" Column="1" />
+      <File FileName="Assets\BSPTree.cs" Line="30" Column="3" />
+      <File FileName="Assets\RoomCreator.cs" Line="83" Column="5" />
+      <File FileName="Assets\Digger.cs" Line="25" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
